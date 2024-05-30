@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rozetkaChetbox/static/css/main.7acaea2f.css",
+    "main.js": "/rozetkaChetbox/static/js/main.d89a3875.js",
+    "index.html": "/rozetkaChetbox/index.html",
+    "main.7acaea2f.css.map": "/rozetkaChetbox/static/css/main.7acaea2f.css.map",
+    "main.d89a3875.js.map": "/rozetkaChetbox/static/js/main.d89a3875.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d89a3875.js"
+  ]
+}
