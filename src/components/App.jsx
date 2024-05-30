@@ -20,7 +20,6 @@ export const App = () => {
       window.location.href = `https://check.checkbox.ua/${id}`;
     }
   };
-
   return (
     <div className="App">
       <h1>Просмотр чека</h1>
